@@ -1,13 +1,54 @@
 {
   "HomePage": {
-    "badge": "Handmade Collection 2026",
-    "title": "World of Cozy Knitting",
-    "description": "Exclusive handmade pieces. We transform premium yarn into warm memories and comfort for your home.",
-    "contactBtn": "Contact Us",
-    "catalogBtn": "View Catalog",
-    "faqTitle": "Frequently Asked Questions",
-    "aboutTitle": "Created with Soul, Warmed with Care",
-    "statsHandmade": "Handmade",
-    "statsClients": "Happy Clients"
+    "welcome": "Welcome to CRM PRO",
+    "title": "Manage your clients with ease.",
+    "description": "A powerful, fast, and intuitive CRM Dashboard built with Next.js and RTK Query.",
+    "button": "Go to Dashboard"
+  },
+  "Dashboard": {
+    "nav": {
+      "dashboard": "Dashboard",
+      "clients": "Clients",
+      "settings": "Settings",
+      "logout": "Logout"
+    },
+    "header": {
+      "admin": "Admin User"
+    }
+  },
+  "Clients": {
+    "title": "Client Directory",
+    "subtitle": "Manage and oversee your customer relationships",
+    "search": "Search name or email...",
+    "table": {
+      "client": "Client",
+      "company": "Company",
+      "contact": "Contact",
+      "actions": "Actions"
+    },
+    "deleteConfirm": "Are you sure you want to delete this client?",
+    "noResults": "No clients found matching your search."
+  },
+  "Login": {
+    "title": "CRM PRO",
+    "subtitle": "Sign in to manage your clients",
+    "welcome": "Welcome Back",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Sign In",
+    "signingIn": "Signing in..."
+  },
+  "ClientDetails": {
+    "back": "Back to Clients",
+    "notFound": "Client not found.",
+    "id": "ID",
+    "born": "Born",
+    "company": "Company",
+    "address": "Address",
+    "tasks": "Client Tasks",
+    "activity": "Recent Activity",
+    "noTasks": "No tasks assigned.",
+    "noActivity": "No recent activity.",
+    "likes": "Likes"
   }
 }
